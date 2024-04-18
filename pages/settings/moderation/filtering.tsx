@@ -56,15 +56,15 @@ export default function Filtering(): JSX.Element {
       value: 'hide',
     },
     {
-      label: 'impersonation',
-      title: t`Impersonation`,
-      description: t`Accounts falsely claiming to be people or orgs`,
+      label: 'misinformation',
+      title: t`Misinformation`,
+      description: t`Accounts sharing propaganda or disinformations`,
       value: 'warn',
     },
     {
-      label: 'disinformation',
-      title: t`Disinformation`,
-      description: t`Skeets that are sharing propaganda or disinformations`,
+      label: 'impersonation',
+      title: t`Impersonation`,
+      description: t`Accounts falsely claiming to be people or orgs`,
       value: 'warn',
     },
   ]
