@@ -56,8 +56,8 @@ export default function Filtering(): JSX.Element {
       value: 'hide',
     },
     {
-      label: 'misinformation',
-      title: t`Misinformation`,
+      label: 'disinfo',
+      title: t`Disinfo`,
       description: t`Accounts sharing propaganda or disinformations`,
       value: 'warn',
     },
