@@ -23,3 +23,9 @@ Bugs
 
 - Notifications dont disappear when clicked
 - Constant reloading of posts [fixed]
+
+Stack 
+
+- Typescript
+- React
+- Vercel
